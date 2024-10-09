@@ -17,13 +17,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class createExcelFile {
-//	public WebDriver driver;
-//	
-//	 @BeforeClass
-//	    public void setup() {
-//	        System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
-//	        driver = new ChromeDriver(); // Initialize the WebDriver
-//	    }
+
 
     @Test
     public void createExcel() throws IOException {
